@@ -6,6 +6,8 @@
 
 <h2></h2>
 
+<p align="left"> <a href="https://twitter.com/amitesh037" target="blank"><img src="https://img.shields.io/twitter/follow/amitesh037?logo=twitter&style=for-the-badge" alt="amitesh037" /></a> </p>
+
 - I’m currently learning **Data Structures & Algorithms and Web Developement.**
 
 - I’m looking to collaborate on **Data Structures & Algorithms, Web Developement and Python Projects.**
@@ -50,4 +52,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amiteshkushwaha7&theme=radical" alt="amiteshkushwaha7" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/amitesh037" target="blank"><img src="https://img.shields.io/twitter/follow/amitesh037?logo=twitter&style=for-the-badge" alt="amitesh037" /></a> </p>
+
