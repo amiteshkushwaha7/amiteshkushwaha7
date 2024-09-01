@@ -1,4 +1,4 @@
-![logo](https://github.com/amiteshkushwaha7/amiteshkushwaha7/blob/master/TWITTWER%20BANNER.png))
+![logo](https://github.com/amiteshkushwaha7/amiteshkushwaha7/blob/master/TWITTWER%20BANNER.png)
 
  <h1 align="center">Hi, I'm AMITESH KUSHWAHA</h1>
 <h4 align="center">A 3rd year BCA student with a keen interest in programming and technology. I have experience in C, C++, and Python, and I'm particularly enthusiastic about Object-Oriented Programming (OOP) and Data Structures & Algorithms. I'm also familiar with databases like MySQL and MongoDB. Currently, I'm expanding my skill set by learning web development and solving challenges on Take U Forward.</h4>
