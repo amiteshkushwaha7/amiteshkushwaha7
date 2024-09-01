@@ -13,7 +13,7 @@
 
 - I’m looking to collaborate on **Data Structures & Algorithms, Web Developement and Python Projects.**
 
-- I’m looking for help with **Data Science.**
+- I’m looking for help with **Data Science and AI/ML.**
 
 - All of my projects are available at GitHub [https://github.com/amiteshkushwaha7](https://github.com/amiteshkushwaha7)
 
