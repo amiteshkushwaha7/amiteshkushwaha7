@@ -1,7 +1,9 @@
 ![logo](https://github.com/amiteshkushwaha7/amiteshkushwaha7/blob/master/README.md)
 
-<h1 align="center">Hi, I'm AMITESH KUSHWAHA</h1>
+ <h1 align="center">Hi, I'm AMITESH KUSHWAHA</h1>
 <h3 align="center">Hello World!</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amiteshkushwaha7&label=Profile%20views&color=0e75b6&style=flat" alt="amiteshkushwaha7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amiteshkushwaha7" alt="amiteshkushwaha7" /></a> </p>
 
@@ -9,17 +11,17 @@
 
 - I’m currently learning **Data Structures & Algorithms, Web Developement.**
 
-- I’m looking to collaborate on: **Data Structures & Algorithms, Web Developement and Python Projects.**
+- I’m looking to collaborate on **Data Structures & Algorithms, Web Developement and Python Projects.**
 
-- I’m looking for help with: **Data Structures & Algorithms, Web Developement and Python.**
+- I’m looking for help with **Data Structures & Algorithms, Web Developement and Python.**
 
-- All of my projects are available at GitHub: [https://github.com/amiteshkushwaha7](https://github.com/amiteshkushwaha7)
+- All of my projects are available at GitHub [https://github.com/amiteshkushwaha7](https://github.com/amiteshkushwaha7)
 
-- Ask me about: **Data Structures & Algorithms and Web Developement.**
+- Ask me about **Data Structures & Algorithms and Web Developement.**
 
-- How to reach me: **amiteshkushwaha2020@gmail.com**
+- How to reach me **amiteshkushwaha2020@gmail.com**
 
-- Fun fact: **"It's not a bug; it's an undocumented feature!"**
+- Fun fact **"It's not a bug; it's an undocumented feature!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
