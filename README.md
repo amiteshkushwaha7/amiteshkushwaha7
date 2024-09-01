@@ -48,6 +48,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiteshkushwaha7&label=Profile%20views&color=0e75b6&style=flat" alt="amiteshkushwaha7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amiteshkushwaha7" alt="amiteshkushwaha7" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amiteshkushwaha7&theme=radical" alt="amiteshkushwaha7" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/amitesh037" target="blank"><img src="https://img.shields.io/twitter/follow/amitesh037?logo=twitter&style=for-the-badge" alt="amitesh037" /></a> </p>
