@@ -13,15 +13,13 @@
 
 - I’m looking to collaborate on **Data Structures & Algorithms, Web Developement and Python Projects.**
 
-- I’m looking for help with **Data Structures & Algorithms, Web Developement and Python.**
+- I’m looking for help with **Data Science.**
 
 - All of my projects are available at GitHub [https://github.com/amiteshkushwaha7](https://github.com/amiteshkushwaha7)
 
-- Ask me about **Data Structures & Algorithms and Web Developement.**
-
 - How to reach me **amiteshkushwaha2020@gmail.com**
 
-- Fun fact **"It's not a bug; it's an undocumented feature!"**
+- Fun fact **"Why It's always HELLO WORLD!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
