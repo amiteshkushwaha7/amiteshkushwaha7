@@ -1,7 +1,7 @@
 ![logo](https://github.com/amiteshkushwaha7/amiteshkushwaha7/blob/master/TWITTWER%20BANNER.png))
 
  <h1 align="center">Hi, I'm AMITESH KUSHWAHA</h1>
-<h3 align="center">Hello World!</h3>
+<h4 align="center">A 3rd year BCA student with a keen interest in programming and technology. I have experience in C, C++, and Python, and I'm particularly enthusiastic about Object-Oriented Programming (OOP) and Data Structures & Algorithms. I'm also familiar with databases like MySQL and MongoDB. Currently, I'm expanding my skill set by learning web development and solving challenges on LeetCode.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiteshkushwaha7&label=Profile%20views&color=0e75b6&style=flat" alt="amiteshkushwaha7" /> </p>
 
