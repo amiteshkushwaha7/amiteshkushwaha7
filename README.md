@@ -1,4 +1,4 @@
-![logo](https://github.com/amiteshkushwaha7/amiteshkushwaha7/blob/master/README.md)
+![logo](https://github.com/amiteshkushwaha7/amiteshkushwaha7/blob/master/TWITTWER%20BANNER.png))
 
  <h1 align="center">Hi, I'm AMITESH KUSHWAHA</h1>
 <h3 align="center">Hello World!</h3>
