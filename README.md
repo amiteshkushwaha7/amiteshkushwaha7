@@ -2,7 +2,7 @@
 
  <h1 align="center">Hi, I'm "AMITESH KUSHWAHA"</h1>
  
-<h4 align="center">A 3rd year BCA student with a keen interest in programming and technology. I have experience in C, C++, and Python, and I'm particularly enthusiastic about Object-Oriented Programming (OOP) and Data Structures & Algorithms. I'm also familiar with databases like MySQL and MongoDB. Currently, I'm expanding my skill set by learning web development and solving challenges on Take U Forward.</h4>
+<p align="center">A 3rd year BCA student with a keen interest in programming and technology. I have experience in <strong>C, C++, and Python</strong>, and I'm particularly enthusiastic about <strong>Object-Oriented Programming (OOP) and Data Structures & Algorithms</strong>. I'm also familiar with databases like <strong>MySQL and MongoDB</strong>. Currently, I'm expanding my skill set by learning <strong>Web Development</strong> and solving challenges on <strong>Take U Forward</strong>.</p>
 
 <h2></h2>
 
