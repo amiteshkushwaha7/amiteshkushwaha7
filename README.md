@@ -45,7 +45,15 @@
 
 <h2 align="left">🔝 Top Contributed Repo</h2>
 
-![](https://github-contributor-stats.vercel.app/api?username=amiteshkushwaha7&limit=5&theme=radical&combine_all_yearly_contributions=true)
+[![GitHub Stats](https://github-contributor-stats.vercel.app/api?username=amiteshkushwaha7&limit=5&theme=radical&combine_all_yearly_contributions=true)](https://github.com/amiteshkushwaha7?tab=repositories)
+
+### Repository Stats
+
+[![Repo Stars](https://img.shields.io/github/stars/amiteshkushwaha7/CPP-DSA-PROGRAMS?style=for-the-badge)](https://github.com/amiteshkushwaha7/CPP-DSA-PROGRAMS)
+[![Repo Forks](https://img.shields.io/github/forks/amiteshkushwaha7/CPP-DSA-PROGRAMS?style=for-the-badge)](https://github.com/amiteshkushwaha7/CPP-DSA-PROGRAMS)
+[![Repo Issues](https://img.shields.io/github/issues/amiteshkushwaha7/CPP-DSA-PROGRAMS?style=for-the-badge)](https://github.com/amiteshkushwaha7/CPP-DSA-PROGRAMS)
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiteshkushwaha7&label=Profile%20views&color=0e75b6&style=flat" alt="amiteshkushwaha7" /> </p>
